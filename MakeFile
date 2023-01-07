@@ -1,0 +1,3 @@
+all: src/main.cpp
+	g++ -o bin/rev-shell src/main.cpp
+
